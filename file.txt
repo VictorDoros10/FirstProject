@@ -1,1 +1,3 @@
-Hello Victor! This is your first project on GitHub. Well Done dude! ^^
+Hello Victor! 
+This is your first project on GitHub.com! 
+Well Done dude! ^^
